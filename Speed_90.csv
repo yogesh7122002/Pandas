@@ -1,0 +1,10 @@
+#,Name,Type 1,Type 2,total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+15,BeedrillMega Beedrill,Bug,Poison,495,65,150,40,15,80,145,1,False
+65,AlakazamMega Alakazam,Psychic,,590,55,50,65,175,95,150,1,False
+142,AerodactylMega Aerodactyl,Rock,Flying,615,80,135,85,70,95,150,1,False
+254,SceptileMega Sceptile,Grass,Dragon,630,70,110,75,145,85,145,3,False
+291,Ninjask,Bug,Flying,456,61,90,45,50,50,160,3,False
+386,DeoxysNormal Forme,Psychic,,600,50,150,50,150,50,150,3,True
+386,DeoxysAttack Forme,Psychic,,600,50,180,20,180,20,150,3,True
+386,DeoxysSpeed Forme,Psychic,,600,50,95,90,95,90,180,3,True
+617,Accelgor,Bug,,495,80,70,40,100,60,145,5,False
